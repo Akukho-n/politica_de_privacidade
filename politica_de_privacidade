@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidade - Serify</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px auto;
+      max-width: 700px;
+      line-height: 1.6;
+      color: #333;
+      padding: 0 15px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade - Serify</h1>
+
+  <p>Última atualização: 14 de maio de 2025</p>
+
+  <p>Este documento descreve como os seus dados pessoais são coletados, usados e protegidos pelo aplicativo <strong>Serify</strong>, desenvolvido por <strong>Luis Henrique De Oliveira Dos Santos</strong>.</p>
+
+  <h2>Quais dados coletamos?</h2>
+  <ul>
+    <li><strong>E-mail:</strong> utilizado para autenticação, comunicação e suporte.</li>
+    <li><strong>Nome das tarefas:</strong> dados que você cria e armazena no aplicativo para gerenciamento.</li>
+    <li><strong>Permissão para enviar notificações:</strong> usamos para lembrar e notificar sobre suas tarefas e eventos importantes.</li>
+  </ul>
+
+  <h2>Como usamos seus dados?</h2>
+  <p>Os dados coletados são utilizados exclusivamente para oferecer a funcionalidade do aplicativo, melhorar a sua experiência e enviar notificações relevantes. Não compartilhamos seus dados pessoais com terceiros sem sua autorização.</p>
+
+  <h2>Segurança dos dados</h2>
+  <p>Nos empenhamos para proteger suas informações contra acessos não autorizados, perdas ou alterações, usando práticas padrão de segurança.</p>
+
+  <h2>Seus direitos</h2>
+  <p>Você pode solicitar a qualquer momento a exclusão ou correção dos seus dados pessoais armazenados pelo aplicativo.</p>
+
+  <h2>Contato</h2>
+  <p>Se você tiver dúvidas ou desejar exercer seus direitos, entre em contato com:</p>
+  <p><strong>Luis Henrique De Oliveira Dos Santos</strong></p>
+  <p>Email: contato@serify.app (adicione seu e-mail real aqui)</p>
+
+  <h2>Atualizações nesta política</h2>
+  <p>Podemos atualizar esta política periodicamente. Recomendamos revisar esta página regularmente para estar informado sobre quaisquer mudanças.</p>
+
+  <p>Obrigado por usar o Serify!</p>
+</body>
+</html>
